@@ -16,8 +16,6 @@ So if you apply RestfullYii to the 'WorkController' you will get the following n
 [PUT] http://yoursite.com/api/work/1 (update work with PK=1)
 [DELETE] http://yoursite.com/api/work/1 (delete work with PK=1)
 ```
-
-hsdfhlfjdsl
 ## Requirements
 
 * PHP 5.4.0 (or later)*
