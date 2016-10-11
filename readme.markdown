@@ -1,4 +1,4 @@
-# _Starship / RestfullYii_
+﻿# _Starship / RestfullYii_
 
 Makes quickly adding a RESTFul API to your Yii project easy. RestfullYii provides full HTTP verb support (GET, PUT, POST, DELETE) for your resources, as well as the ability to offset, limit, sort, filter, etc… . You will also have the ability to read and manipulate related data with ease.
 
@@ -17,7 +17,7 @@ So if you apply RestfullYii to the 'WorkController' you will get the following n
 [DELETE] http://yoursite.com/api/work/1 (delete work with PK=1)
 ```
 
-
+hsdfhlfjdsl
 ## Requirements
 
 * PHP 5.4.0 (or later)*
